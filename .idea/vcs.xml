@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyBOT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MyBOT/My-Bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/X-O" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django3/django_lesson2" vcs="Git" />
+  </component>
+</project>
